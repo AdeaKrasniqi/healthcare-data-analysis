@@ -6,9 +6,8 @@ This project analyzes and visualizes health data to identify trends and risk fac
 
 ## 📂 Project Files
 All files are in one folder:
-- `healthcareDS.csv` → raw healthcare dataset  
-- `health_data_analysis.py` → Python script with full code for data cleaning, feature engineering, and visualization  
-- (Optional) `health_data_analysis.ipynb` → Jupyter Notebook version of the analysis  
+- `healthcareDS.csv` → raw healthcare dataset   
+- `health_data_analysis.ipynb` → Jupyter Notebook version of the analysis  
 
 ---
 
